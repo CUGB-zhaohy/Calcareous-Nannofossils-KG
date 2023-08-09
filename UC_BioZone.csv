@@ -1,0 +1,90 @@
+index,REPLACE1,REPLACE2,REPLACE3,REPLACE4,REPLACE5,REPLACE6
+1,Albian,UC0,FO of Eiffellithus turriseiffelii to the FO of Corollithion kennedyi.,Eiffellithus_turriseiffelii_Base_Time,Corollithion_kennedyi_Base_Time,Equivalent to subzone NC10A of Bralower et al. (1993).
+2,Albian,UC0a,FO of Eiffellithus turriseiffelii to the LO of Hayesites albiensis.,Eiffellithus_turriseiffelii_Base_Time,Hayesites_albiensis_Top_Time,Manivit et al. (1977).
+3,Albian,UC0b,LO of Hayesites albiensis to the FO of Calculites anfractus.,Hayesites_albiensis_Top_Time,Calculites_anfractus_Base_Time,Burnett_. herein.
+4,Cenomanian,UC1,FO of Corollithion kennedyi to the FO of Gartnerago segmentatum (= G. obliquum of many authors).,Corollithion_kennedyi_Base_Time,Gartnerago_segmentatum_Base_Time,Burnett_. herein.
+5,Cenomanian,UCla,FO of Corollithion kennedyi to the LO of Watznaueria britannica.,Corollithion_kennedyi_Base_Time,Watznaueria_britannica_Top_Time,Burnett_. herein.
+6,Cenomanian,UClb,LO of Watznaueria britannica to the LO of Gartnerago chiasta.,Watznaueria_britannica_Top_Time,Gartnerago_chiasta_Top_Time,Burnett_. herein.
+7,Null,UClc,Null,Null,Null,Null
+8,Cenomanian,UCld,FO of rare and sporadic Kamptnerius magnificus or the FO of Helicolithus anceps to the FO of Gartnerago segmentatum.,Kamptnerius_magnificus_Base_Time,Gartnerago_segmentatum_Base_Time,Burnett_. herein.
+9,Cenomanian,UC2,FO of Gartnerago segmentatum (= G. obliquum of many authors) to the FO of Lithraphidites acutus.,Gartnerago_segmentatum_Base_Time,Lithraphidites_acutus_Base_Time,Burnett herein.
+10,Cenomanian,UC2a,FO of Gartnerago segmentatum to the LO of Zeugrhabdotus xenotus.,Gartnerago_segmentatum_Base_Time,Zeugrhabdotus_xenotus_Top_Time,Burnett_. herein.
+11,Cenomanian,UC2b,LO of Zeugrhabdotus xenotus to the FO of Cylindralithus sculptus.,Zeugrhabdotus_xenotus_Top_Time,Cylindralithus_sculptus_Base_Time,Burnett_. herein.
+12,Cenomanian,UC2c,FO of Cylindralithus sculptus to the FO of Lithraphidites acutus.,Cylindralithus_sculptus_Base_Time,Lithraphidites_acutus_Base_Time,Burnett_. herein.
+13,Cenomanian,UC3,FO of Lithraphidites acutus to the FO of Cylindralithus biarcus.,Lithraphidites_acutus_Base_Time,Cylindralithus_biarcus_Base_Time,Burnett_. herein.
+14,Cenomanian,UC3a,FO of Lithraphidites acutus to the LO of Gartnerago theta.,Cylindralithus_biarcus_Base_Time,Gartnerago_theta_Top_Time,Burnett_. herein.
+15,Cenomanian,UC3b,LO of Gartnerago theta to the LO of Staurolithites gausorhethium.,Gartnerago_theta_Top_Time,Staurolithites_gausorhethium_Top_Time,Burnett_. herein.
+16,Cenomanian,UC3c,LO of Staurolithites gausorhethium to the LO of Gartnerago nanum.,Staurolithites_gausorhethium_Top_Time,Gartnerago_nanum_Top_Time,Burnett_. herein.
+17,Cenomanian,UC3d,LO of Gartnerago nanum to the LO of Carollithion kennedyi.,Gartnerago_nanum_Top_Time,Corollithion_kennedyi_Top_Time,Burnett_. herein.
+18,Cenomanian,UC3e,LO of Corollithion kennedyi to the FO of Cylindralithus biarcus.,Corollithion_kennedyi_Top_Time,Cylindralithus_biarcus_Base_Time,Burnett_. herein.
+19,Cenomanian,UC4,FO of Cylindralithus biarcus to the LO of Lithraphidites acutus.,Cylindralithus_biarcus_Base_Time,Lithraphidites_acutus_Top_Time,Burnett_. herein.
+20,Cenomanian,UC4a,FO of Cylindralithus biarcus to the LO of Cretarhabdus striatus (= Cretarhabdus loriei of some authors).,Cylindralithus_biarcus_Base_Time,Cretarhabdus_striatus_Top_Time,Burnett_. herein.
+21,Cenomanian,UC4b,LO of Cretarhabdus striatus (= Cretarhabdus loriei of some authors) to the LO of Lithraphidites acutus.,Cretarhabdus_striatus_Top_Time,Lithraphidites_acutus_Top_Time,Burnett_. herein.
+22,Cenomanian,UC5,LO of Lithraphidites acutus to the LO of Helenea chiastia (= Microstaurus chiastius of many authors).,Lithraphidites_acutus_Top_Time,Helenea_chiastia_Top_Time,Burnett_. herein.
+23,Cenomanian,UC5a,LO of Lithraphidites acutus to the LO of Axopodorhabdus albianus.,Lithraphidites_acutus_Top_Time,Axopodorhabdus_albianus_Top_Time,Burnett_. herein.
+24,Cenomanian,UC5b,LO of Axopodorhabdus albianus to the FO of Quadrum intermedium with 5 elements in each cycle.,Axopodorhabdus_albianus_Top_Time,Quadrum_intermedium_Base_Time,Burnett_. herein.
+25,Cenomanian,UC5c,FO of Quadrum intermedium with 5 elements in each cycle to the LO of Helenea chiastia.,Quadrum_intermedium_Base_Time,Helenea_chiastia_Top_Time,Burnett_. herein.
+26,Turonian,UC6,LO of Helenea chiastia (= Microstaurus chiastius of many authors) to the FO of Quadrum gartneri.,Helenea_chiastia_Top_Time,Quadrum_gartneri_Base_Time,Equivalent to subzone CC10b of Perch- Nielsen (1985a).
+27,Turonian,UC6a,LO of Helenea chiastia to the FO of Eprolithus moratus (= E. eptapetalus of Varol_. 1992).,Helenea_chiastia_Top_Time,Eprolithus_moratus_Base_Time,Burnett_. herein.
+28,Turonian,UC6b,FO of Eprolithus moratus to the FO of Quadrum gartneri.,Eprolithus_moratus_Base_Time,Quadrum_gartneri_Base_Time,Burnett_. herein.
+29,Turonian,UC7,FO of Quadrum gartneri to the FO of Eiffellithus eximius.,Quadrum_gartneri_Base_Time,Eiffellithus_eximius_Base_Time,Equivalent to zone CC11 sensu Perch- Nielsen (1979a).
+30,Turonian,UC8,FO of Eiffellithus eximius to the FO of Lithastrinus septenarius (= L. moratus of Varol_. 1992).,Eiffellithus_eximius_Base_Time,Lithastrinus_septenarius_Base_Time,Burnett_. herein.
+31,Turonian,UC8a,FO of Eiffellithus eximius to the FO Lucianorhabdus quadrifidus.,Eiffellithus_eximius_Base_Time,Lucianorhabdus_quadrifidus_Base_Time,Burnett_. herein.
+32,Turonian,UC8b,FO of Lucianorhabdus quadrifidus to the FO of Lit hastrinus septenarius.,Lucianorhabdus_quadrifidus_Base_Time,Eiffellithus_eximius_Base_Time,Burnett_. herein.
+33,Turonian,UC8aAP,FO of Eiffellithus eximius to the FO of Thiersteinia ecclesiastica.,Eiffellithus_eximius_Base_Time,Thiersteinia_ecclesiastica_Base_Time,Burnett_. herein.
+34,Turonian,UC8bAP,FO of Thiersteinia ecclesiastica to the FO of Lithastrinus septenarius.,Thiersteinia_ecclesiastica_Base_Time,Lithastrinus_septenarius_Base_Time,Burnett_. herein.
+35,Turonian,UC9,FO of Lithastrinus septenarius (= L. moratus of Varol_. 1992) to the FO of Micula stauropora.,Lithastrinus_septenarius_Base_Time,Micula_stauropora_Base_Time,Equivalent to subzone CC13b of Pcrch- Niclsen (1985a).
+36,Turonian,UC9a,FO of Lithastrinus septenarius to the FO of Zeugrhabdotus biperforatus.,Lithastrinus_septenarius_Base_Time,Zeugrhabdotus_biperforatus_Base_Time,Burnett_. herein.
+37,Turonian,UC9b,FO of Zeugrhabdotus biperforatus to the FO of Broinsonia parca expansa (=?B. lacunosa and Aspidolithus parcus expansus of some authors).,Zeugrhabdotus_biperforatus_Base_Time,Broinsonia_parca_expansa_Base_Time,Burnett_. herein.
+38,Turonian,UC9c,FO of Broinsonia parca expansa (= ?B. lacunosa and Aspidolithus parcus expansus of some authors) to the FO of Micula staurophora.,Broinsonia_parca_expansa_Base_Time,Micula_stauropora_Base_Time,Burnett_. herein.
+39,Turonian,UC9aAP,FO of Lithastrinus septenarius to the FO of Zeugrhabdotus kerguelenensis.,Lithastrinus_septenarius_Base_Time,Zeugrhabdotus_kerguelenensis_Base_Time,Burnett_. herein.
+40,Turonian,UC9bAP,FO of Zeugrhabdotus kerguelenensis to the FO of Micula stauropora.,Zeugrhabdotus_kerguelenensis_Base_Time,Micula_stauropora_Base_Time,Burnett_. herein.
+41,Coniacian,UC10,FO of Micula stauropora to the FO of Lithastrinus grillii.,Micula_stauropora_Base_Time,Lithastrinus_grillii_Base_Time,Approximately equivalent to zone CC14 sensu Perch-Nielsen (1985a).
+42,Coniacian,UC10aAP,FO of Micula staurophora to the LO of Zeugrhabdotus kerguelenensis.,Micula_stauropora_Base_Time,Zeugrhabdotus_kerguelenensis_Top_Time,Burnett_. herein.
+43,Coniacian,UC10bAP,LO of Zeugrhabdotus kerguelenensis to the LO of Quadrum gartneri.,Zeugrhabdotus_kerguelenensis_Top_Time,Quadrum_gartneri_Top_Time,Burnett_. herein.
+44,Coniacian,UC11,FO of Lithastrinus grillii to the LO of Lithastrinus septenarius (= L. moratus of Varol_. 1992).,Lithastrinus_grillii_Base_Time,Lithastrinus_septenarius_Top_Time,Approximately equivalent to zone CC15 sensu Perch-Nielsen (1985a).
+45,Coniacian,UC11a,FO of Lithastrinus grillii to the LO of Quadrum gartneri.,Lithastrinus_grillii_Base_Time,Quadrum_gartneri_Top_Time,Burnett_. herein.
+46,Coniacian,UC11b,LO of Quadrum gartneri to the FO of Lucianorhabdus cayeuxii.,Quadrum_gartneri_Top_Time,Lucianorhabdus_cayeuxii_Base_Time,Burnett_. herein.
+47,Coniacian,UC11c,FO of Lucianorhabdus cayeuxii to the LO of Lithastrinus septenarius.,Lucianorhabdus_cayeuxii_Base_Time,Lithastrinus_septenarius_Top_Time,Burnett_. herein.
+48,Santonian,UC12,LO of Lithastrinus septenarius (= L. moratus of Varol_. 1992) to the FO of Arkhangelskiella cymbiformis sensu Burnett_. 1998b.,Lithastrinus_septenarius_Top_Time,Arkhangelskiella_cymbiformis_Base_Time,Burnett_. herein.
+49,Campanian,UC13,FO of Arkhangelskiella cymbiformis sensu Burnett_. 1998b to the FO of Broinsonia parca parca (= Aspidolithus parcus parcus of some authors).,Arkhangelskiella_cymbiformis_Base_Time,Broinsonia_parca_parca_Base_Time,Burnett_. herein.
+50,Campanian,UC13aBP,FO of Arkhangelskiella cymbiformis sensu Burnett_. 1998b to the consistent FO of Orastrum campanensis.,Arkhangelskiella_cymbiformis_Base_Time,Orastrum_campanensis_Base_Time,Burnett_. herein.
+51,Campanian,UC13bBP,FO of consistent Orastrum campanensis to the FO of Broinsonia parca parca (= Aspidolithus parcus parcus of some authors).,Orastrum_campanensis_Base_Time,Broinsonia_parca_parca_Base_Time,Burnett_. herein.
+52,Campanian,UC14,FO of Broinsonia parca parca to the FO of Misceomarginatus pleniporus.,Broinsonia_parca_parca_Base_Time,Misceomarginatus_pleniporus_Base_Time,Burnett_. herein.
+53,Campanian,UC14a,FO of Broinsonia parca parca to the FO of Broinsonia parca constricta (= Aspidolithus parcus constrictus of some authors).,Broinsonia_parca_parca_Base_Time,Broinsonia_parca_constricta_Base_Time,Burnett_. herein.
+54,Campanian,UC14bBP,FO of Broinsonia parca constricta to the FO of Misceomarginatus pleniporus.,Broinsonia_parca_constricta_Base_Time,Misceomarginatus_pleniporus_Base_Time,Burnett_. herein.
+55,Campanian,UC14bTP,FO of Broinsonia parca constricta to the FO of Bukryaster hayi.,Broinsonia_parca_constricta_Base_Time,Bukryaster_hayi_Base_Time,Burnett_. herein.
+56,Campanian,UC14cTP,FO of Bukryaster hayi to the FO of Ceratolithoides verbeekii.,Bukryaster_hayi_Base_Time,Ceratolithoides_verbeekii_Base_Time,Equivalent to subzone CC18b of Perch- Nielsen (1985a)
+57,Campanian,UC14dTP,FO of Ceratolithoides verbeekii Lo the FO of Misceomarginatus pleniporus.,Ceratolithoides_verbeekii_Base_Time,Misceomarginatus_pleniporus_Base_Time,Burnett_. herein.
+58,Campanian,UC15,FO of Misceomarginatus pleniporus to the LO of Eiffellithus eximius.,Misceomarginatus_pleniporus_Base_Time,Eiffellithus_eximius_Top_Time,Burnett_. herein.
+59,Campanian,UC15aBP,FO of Misceomarginatus pleniporus to the LO of Cylindralithus biarcus.,Misceomarginatus_pleniporus_Base_Time,Cylindralithus_biarcus_Top_Time,Burnett_. herein.
+60,Campanian,UC15bBP,LO of Cylindralithus biarcus to the FO of Heteromarginatus bugensis.,Cylindralithus_biarcus_Top_Time,Heteromarginatus_bugensis_Base_Time,Burnett_. herein.
+61,Campanian,UC15cBP,FO of Heteromarginatus bugensis to the FO of Prediscosphaera stoveri.,Heteromarginatus_bugensis_Base_Time,Prediscosphaera_stoveri_Base_Time,Burnett_. herein.
+62,Campanian,UC15dBP,FO of Prediscosphaera stoveri to the LO of Orastrum campanensis.,Prediscosphaera_stoveri_Base_Time,Orastrum_campanensis_Top_Time,Burnett_. herein.
+63,Campanian,UC15eBP,LO of Orastrum campanensis to the LO of Eiffellithus eximius.,Orastrum_campanensis_Top_Time,Eiffellithus_eximius_Top_Time,Equivalent to the Eiffellithus eximius Zone of Crux (1991a).
+64,Campanian,UC15aTP,FO of Misceomarginatus pleniporus to the FO of Ceratolithoides aculeus.,Misceomarginatus_pleniporus_Base_Time,Ceratolithoides_aculeus_Base_Time,Burnett_. herein.
+65,Campanian,UC15bTP,FO of Ceratolithoides aculeus to the FO of Uniplanarius sissinghii.,Ceratolithoides_aculeus_Base_Time,Uniplanarius_sissinghii_Base_Time,Equivalent to zone CC20 of Sissingh (1977).
+66,Campanian,UC15cTP,FO of Uniplanarius sissinghii to the FO of Uniplanarius trifidus.,Uniplanarius_sissinghii_Base_Time,Uniplanarius_trifidus_Base_Time,Equivalent to zone CC20 of Sissingh (1977).
+67,Campanian,UC15dTP,FO of Uniplanarius trifidus to the FO of Eijfellithus parallelus.,Uniplanarius_trifidus_Base_Time,Eiffellithus_parallelus_Base_Time,Burnett_. herein.
+68,Campanian,UC15eTP,FO of Eiffellithus parallelus to the LO of Eiffellithus eximius.,Eiffellithus_parallelus_Base_Time,Eiffellithus_eximius_Top_Time,Null
+69,Campanian,UC15aAP,FO of Misceomarginatus pleniporus to the LO of Biscutum dissimilis.,Misceomarginatus_pleniporus_Base_Time,Biscutum_dissimilis_Top_Time,Burnett_. herein.
+70,Campanian,UC15bAP,LO of Biscutum dissimilis to the LO of Eiffellithus eximius.,Biscutum_dissimilis_Top_Time,Eiffellithus_eximius_Top_Time,Burnett_. herein.
+71,Campanian,UC16,LO of Eiffellithus eximius to the LO of Broinsonia parca constricta.,Eiffellithus_eximius_Top_Time,Broinsonia_parca_constricta_Top_Time,Approximately equivalent to subzone CC23a of Sissingh(1977).
+72,Campanian,UC16aBP,LO of Eiffellithus eximius to the LO of Heteromarginatus bugensis.,Eiffellithus_eximius_Top_Time,Heteromarginatus_bugensis_Top_Time,Burnett_. herein.
+73,Campanian,UC16bBP,LO of Heteromarginatus bugensis to the LO of Tortolithus caistorensis.,Heteromarginatus_bugensis_Top_Time,Tortolithus_caistorensis_Top_Time,Burnett_. herein.
+74,Campanian,UC16cBP,LO of Tortolithus caistorensis to the LO of Monomarginatus quaternarius.,Tortolithus_caistorensis_Top_Time,Monomarginatus_quaternarius_Top_Time,Burnett_. herein.
+75,Campanian,UC16dBP,LO of Monomarginatus quaternarius to the LO of Broinsonia parca constricta.,Monomarginatus_quaternarius_Top_Time,Broinsonia_parca_constricta_Top_Time,Burnett_. herein.
+76,Campanian,UC17,LO of Broinsonia parca constricta to the LO of Tranolithus orionatus (= Tranolithus phacelosus of some authors).,Broinsonia_parca_constricta_Top_Time,Tranolithus_orionatus_Base_Time,Equivalent to CC23b of Sissingh (1977).
+77,Maastrichtian,UC18,LO of Tranolithus orionatus (= Tranolithus phacelosus of some authors) to the LO of Reinhardtites levis.,Tranolithus_orionatus_Base_Time,Reinhardtites_levis_Top_Time,Equivalent to zone CC24 of Sissingh (1977).
+78,Maastrichtian,UC18aAP,LO of Tranolithus orionatus to the LO of Biscutum coronum.,Tranolithus_orionatus_Base_Time,Biscutum_coronum_Top_Time,Burnett_. herein.
+79,Maastrichtian,UC18bAP,LO of Biscutum coronum to the LO of Reinhardtites levis.,Biscutum_coronum_Top_Time,Reinhardtites_levis_Top_Time,Burnett_. herein.
+80,Maastrichtian,UC19,LO of Reinhardtites levis to the FO of Lithraphidites quadratus.,Reinhardtites_levis_Top_Time,Lithraphidites_quadratus_Base_Time,Equivalent to subzone CC25a of Perch Nielsen (1985a).
+81,Maastrichtian,UC20,FO of Lithraphidites quadratus to the LO of unreworked_. non-survivor Cretaceous taxa.,Lithraphidites_quadratus_Base_Time,Null,Burnett_. herein.
+82,Maastrichtian,UC20aBP,FO of Lithraphidites quadratus to the FO of Nephrolithus frequens.,Lithraphidites_quadratus_Base_Time,Nephrolithus_frequens_Base_Time,Equivalent to the Lithraphidites quadratus Zone of Doeven (1983).
+83,Maastrichtian,UC20bBP,FO of Nephrolithus frequens to the FO of Arkhangelskiella maastrichtiana.,Nephrolithus_frequens_Base_Time,Arkhangelskiella_maastrichtiana_Base_Time,Burnett_. herein.
+84,Maastrichtian,UC20cBP,FO of Arkhangelskiella maastrichtiana to the FO of Cribrosphaerella daniae.,Arkhangelskiella_maastrichtiana_Base_Time,Cribrosphaerella_daniae_Base_Time,Burnett_. herein.
+85,Maastrichtian,UC20dBP,FO of Cribrosphaerella daniae to the LO of unreworked_. non-survivor Cretaceous taxa.,Cribrosphaerella_daniae_Base_Time,Null,Burnett_. herein.
+86,Maastrichtian,UC20aTP,FO of Lithraphidites quadratus to the FO of Micula murus.,Lithraphidites_quadratus_Base_Time,Micula_murus_Base_Time,Equivalent to subzone CC25b of Perch-Nielsen (1985a).
+87,Maastrichtian,UC20bTP,FO of Micula murus to the FO of Ceratolithoides kamptneri.,Micula_murus_Base_Time,Ceratolithoides_kamptneri_Base_Time,Approximately equivalent to subzone CC25c of Perch-Nielsen (1985a).
+88,Maastrichtian,UC20cTP,FO of Ceratolithoides kamptneri to the FO of Micula prinsii.,Ceratolithoides_kamptneri_Base_Time,Micula_prinsii_Base_Time,Approximately equivalent to subzone CC26a of Perch-Nielsen (1985a).
+89,Maastrichtian,UC20dTP,FO of Micula prinsii to the LO of unreworked_. non-survivor Cretaceous taxa.,Micula_prinsii_Base_Time,Null,Approximately equivalent to subzone CC26b of Perch-Nielsen (1985a).
