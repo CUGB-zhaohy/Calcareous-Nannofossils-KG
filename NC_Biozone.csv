@@ -1,0 +1,45 @@
+index,REPLACE1,REPLACE2,REPLACE3,REPLACE4,REPLACE5,REPLACE6
+1,Berriasian,NC1,FO of Lithraphidites carniolensis and Nannoconus colomii and Cruciellinsis cuvillieri to FO of Retecapsa neocomiana,Lithraphidites_carniolensis_Base_Time,Retecapsa_neocomiana_Base_Time,Ross (1978)
+2,Berriasian,NC2,FO of Retecapsa neocomiana to the FO of Diadorhombus rectus and Calcicalathina oblongta and Tubodiscus verenae,Retecapsa_neocomiana_Base_Time,Diadorhombus_rectus_Base_Time,Ross (1978)
+3,Valanginian,NC3,FO of Diadorhombus rectus and Calcicalathina oblongta and Tubodiscus verenae to the LO of Tubodiscus verenae,Diadorhombus_rectus_Base_Time,Tubodiscus_verenae_Top_Time,Ross (1978)
+4,Hauterivian,NC4,LO of Tubodiscus verenae to the LO of Cruciallipsis cuvillieri,Tubodiscus_verenae_Top_Time,Cruciellipsis_cuvillieri_Top_Time,Ross (1978)
+5,Barremian,NC5,LO of Cruciellipsis cuvillieri to the UNKNOW,Cruciellipsis_cuvillieri_Top_Time,UNKNOW,Ross (1978)
+6,Aptian,NC6,UNKNOW to the FO of Parhabdolithus angustus,UNKNOW,Parhabdolithus_angustus_Base_Time,Ross (1978)
+7,Aptian,NC7,FO of Parhabdolithus angustus to the FO of Prediscosphaera cretacea,Parhabdolithus_angustus_Base_Time,Prediscosphaera_cretacea_Base_Time,Ross (1978)
+8,Albian,NC8,FO of Prediscosphaera cretacea to the Fo of Axopodorhabdus albianus,Prediscosphaera_cretacea_Base_Time,Axopodorhabdus_albianus_Base_Time,Ross (1978)
+9,Albian,NC9,FO of Axopodorhabdus albianus to the FO of Eiffellithus turriseiffeii,Axopodorhabdus_albianus_Base_Time,Eiffellithus_turriseiffeii_Base_Time,Ross (1978)
+10,Cenomanian,NC10,FO of Eiffellithus turriseiffeii to the FO of Lithraphidites acutum,Eiffellithus_turriseiffeii_Base_Time,Lithraphidites_acutum_Base_Time,Ross (1978)
+11,Cenomanian,NC11,FO of Lithraphidites acutum to the LO of Lithraphidites acutum and the FO of Gartnerago obliquum s. str.,Lithraphidites_acutum_Base_Time,Lithraphidites_acutum_Top_Time,Ross (1978)
+12,Cenomanian,NC12,LO of Lithraphidites acutum and the FO of Gartnerago obliquum s. str.to the FO of Micula staurophora,Lithraphidites_acutum_Top_Time,Micula_staurophora_Base_Time,Ross (1978)
+13,Turonian,NC13,FO of Micula staurophora to UNKNOW,Micula_staurophora_Base_Time,UNKNOW,Ross (1978)
+14,Turonian,NC14,UNKNOW to the FO of Marthasterites furcatus,UNKNOW,Marthasterites_furcatus_Base_Time,Ross (1978)
+15,Coniacian,NC15,FO of Marthasterites furcatus to the UNKNOW,Marthasterites_furcatus_Base_Time,UNKNOW,Ross (1978)
+16,Coniacian,NC16,UNKNOW to the UNKNOW,UNKNOW,UNKNOW,Ross (1978)
+17,Santonian,NC17,UNKNOW to the FO of Broinsonia parca,UNKNOW,Broinsonia_parca_Base_Time,Ross (1978)
+18,Campanian,NC18,FO of Broinsonia parca to the FO of Tetralithus aculeus,Broinsonia_parca_Base_Time,Tetralithus_aculeus_Base_Time,Ross (1978)
+19,Campanian,NC19,FO of Tetralithus aculeus to the FO of the Tetralithus trifidus,Tetralithus_aculeus_Base_Time,Tetralithus_trifidus_Base_Time,Ross (1978)
+20,Campanian,NC20,FO of the Tetralithus trifidus to LO of Tetralithus trifidus and FO of Lithraphidites praequadratus,Tetralithus_trifidus_Base_Time,Tetralithus_trifidus_Top_Time,Ross (1978)
+21,Maastrichtian,NC21,LO of Tetralithus trifidus and FO of Lithraphidites praequadratus to the FO of Lithraphidites quadratus,Tetralithus_trifidus_Top_Time,Lithraphidites_quadratus_Base_Time,Ross (1978)
+22,Maastrichtian,NC22,FO of Lithraphidites quadratus to the FO of Micula murus,Lithraphidites_quadratus_Base_Time,Micula_murus_Base_Time,Ross (1978)
+23,Maastrichtian,NC23,FO of Micula murus to the UNKNOW,Micula_murus_Base_Time,UNKNOW,Ross (1978)
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
