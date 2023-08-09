@@ -1,0 +1,12 @@
+################## REPLACE2 ################
+geocnf:REPLACE2
+    rdfs:label "REPLACE2" ;
+    rdf:type geocnf:UC_Zone ;
+    rdf:type time:ProperInterval ;
+    skos:relate isc:REPLACE1 ;
+    rdfs:isDefinedBy "REPLACE3"@en ;
+    rdfs:comment "REPLACE6" ;
+    time:hasBeginning geocnf:REPLACE4 ;
+    time:hasEnd geocnf:REPLACE5 ;  
+.
+

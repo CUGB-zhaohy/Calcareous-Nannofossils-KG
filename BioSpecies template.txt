@@ -1,0 +1,65 @@
+###################################### {1} #########################################
+
+    geocnf:{0}
+        rdfs:subClassOf geocnf:Species ;
+        rdfs:label "{1}"@en ;
+        skos:prefLabel "{1}"@en ;
+        rdfs:comment "{2}"^^xsd:string ;
+        skos:altLabel "{18}"^^xsd:string ;
+        skos:broderTransitive geocnf:{3} ;
+    .
+
+    geocnf:{4}
+        rdfs:label "{5}"@en ;
+        rdfs:comment "Regard the Species {1} as a time-concept"@en ;
+        rdf:type geocnf:Species__Geologic_Range ;
+        skos:inScheme geocnf:{0} ;
+        time:hasBeginning geocnf:{6} ;
+        time:hasEnd geocnf:{8} ;
+    .
+
+    geocnf:{6}
+        rdfs:label "{7}"@en ;
+        rdf:type geocnf:Species_Base_Time ;
+        time:inTemporalPosition geocnf:{10} ;
+    .
+
+    geocnf:{8}
+        rdfs:label "{9}"@en ;
+        rdf:type geocnf:Species_Top_Time ;
+        time:inTemporalPosition geocnf:{12} ;
+    .
+
+    geocnf:{10}
+        rdfs:label "{11}"@en ;
+        rdf:type geocnf:Species_Base_NumericTime ;
+        dc:description
+            [ 
+            time:hasTRS <http://resource.geosciml.org/classifier/cgi/geologicage/ma> ;
+            time:numericPosition "{14}" ;
+            rdfs:comment "Tethyan"@en ;
+            ] ; 
+        dc:description
+            [ 
+            time:hasTRS <http://resource.geosciml.org/classifier/cgi/geologicage/ma> ;
+            time:numericPosition "{15}" ;
+            rdfs:comment "Boreal"@en ;
+            ] ; 
+    .
+
+    geocnf:{12}
+        rdfs:label "{13}"@en ;
+        rdf:type geocnf:Species_Top_NumericTime ;
+        dc:description
+            [ 
+            time:hasTRS <http://resource.geosciml.org/classifier/cgi/geologicage/ma> ;
+            time:numericPosition "{16}" ;
+            rdfs:comment "Tethyan"@en ;
+            ] ; 
+        dc:description
+            [ 
+            time:hasTRS <http://resource.geosciml.org/classifier/cgi/geologicage/ma> ;
+            time:numericPosition "{17}" ;
+            rdfs:comment "Boreal"@en ;
+            ] ; 
+    .
